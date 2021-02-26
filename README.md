@@ -1,2 +1,2 @@
 # training-test
-NCEAS workshop
+This is a practice repo for the NCEAS workshop
